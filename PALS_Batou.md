@@ -2,7 +2,7 @@
 ##Batou
 ###Portable battery powered ~3500 Lumen projector
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9129.JPG)
+![batou](Image/_MG_9129.JPG)
 
 ### Ingredients
 
@@ -16,7 +16,7 @@
 
 ###Projector
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9155.JPG)
+![batou](Image/_MG_9155.JPG)
 
 * Find a projector that fits your budget and your project. Dont buy the same one used here, its old news. Now you can get brighter, lighter and smaller for less dollar.
 
@@ -26,31 +26,31 @@
 
 * If you get a projector that uses a colorwheel you can remove it for extra brightness but you will have a black and white projector. The increase in brightness may be worth it though!
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/colorwheel.jpg)
+![batou](Image/colorwheel.jpg)
 
 ###Battery + Charging
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9161.JPG)
+![batou](Image/_MG_9161.JPG)
 
 The Braille Battery we used is 45Ah and lasts ~90 minutes with the Optoma TH1020 which claims to draw 339  watts. 
 
 ###Inverter
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9141.JPG)
+![batou](Image/_MG_9141.JPG)
 
 This is a pure sinewave inverter. Which is important.
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/Inverter_Wave_Comp.jpeg)
+![batou](Image/Inverter_Wave_Comp.jpeg)
 
 Most inverters output a stepped square wave(red line), its easier to design a circuit to output this thus they are cheaper and more commonly used, a pure sine wave(black line) is what is provided by your power company. Projectors are not designed for a stepped square wave so you get some buzzing and depending on the quality of the projector it could cause damage.
 
 The inverter is screwed to the top of the pelican case with 4 drywall screws.
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9170.JPG)
+![batou](Image/_MG_9170.JPG)
 
 ###Tripod
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9142.JPG)
+![batou](Image/_MG_9142.JPG)
 
 The Ravelli APGL3 is a good projector tripod as it has
 
@@ -66,4 +66,4 @@ Since most projectors project the image up somewhat and not straight out, and wi
 
 Basicly just cut a hole in the case to feed the positive/negitive cables though. We made it larger than is perhaps nesseccary to air on the side of safety, battery/heat wise.
 
-![batou](/Users/rachelbrian/Desktop/Projector_Images/_MG_9152.JPG)
+![batou](Image/_MG_9152.JPG)
